@@ -39,4 +39,15 @@ variables) and presented here.
 The resulting time series runs from 1976 to 2021 (Figure S5).
 
 
+Description of the file NLCI_cumsum.csv
 
+It contains the cummulative sum of the Newfoundland and Labrador Climate Index (NLCI) used to generate the magenta curve in Figure 2 and Figures S1 to S5.
+The NLCI is available at: https://doi.org/10.20383/101.0301
+
+It contains the following columns:
+
+1. "Year" (index)
+Years from 1950 to 2022 
+
+2. Cumsum
+Cumulative sum of the NLCI after a 2-year running mean has been applied.
